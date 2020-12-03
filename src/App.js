@@ -58,7 +58,7 @@ function App() {
             }}
           >
             <h2>
-              OLD SHOWS
+               SHOWS
               <a target="_blank" href="http://chillcastle.com/art">
                 <p>PAST</p>
               </a>
